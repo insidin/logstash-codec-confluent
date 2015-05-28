@@ -1,0 +1,15 @@
+.DS_Store
+build
+out
+target
+*.class
+.classpath
+.project
+.settings
+.idea
+*.iml
+*.ipr
+*.iws
+*.gem
+Gemfile.lock
+.bundle
